@@ -31,7 +31,7 @@ LaTeX
 
 [LaTeX Symbols](http://www.artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
 
-A (Not So) Short Introduction to LaTeX2e (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB](http://tug.ctan.org/tex-archive/info/lshort/english/lshort.pdf))
+A (Not So) Short Introduction to LaTeX2e ([PDF - 2.2 MB](http://tug.ctan.org/tex-archive/info/lshort/english/lshort.pdf))
 
 [LyX for Windows](http://wiki.lyx.org/Windows/Windows) (IDE for Windows)
 
