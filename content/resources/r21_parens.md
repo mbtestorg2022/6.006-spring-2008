@@ -5,6 +5,7 @@ description: 'Live Python Coding problems (problem statement, tests, and solutio
   3 .py files, 1 .pyc file, 1 .rb file, and 6 data files.)'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-006-introduction-to-algorithms-spring-2008/7ef5586bcc38569cc531071caff31877_r21_parens.zip
 file_type: application/zip
+parent_uid: 977e8874-11d8-d029-4782-2552324c99e8
 resourcetype: Other
 title: Matrix chain multiplication
 uid: 7ef5586b-cc38-569c-c531-071caff31877

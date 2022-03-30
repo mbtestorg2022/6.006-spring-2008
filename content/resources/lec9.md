@@ -4,6 +4,7 @@ description: Lecture notes on sorting, heaps and MAX_HEAPIFY, building a heap, h
   sort, and priority queues.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-006-introduction-to-algorithms-spring-2008/4ce619b4efda1ca12d0c65b504c73bc9_lec9.pdf
 file_type: application/pdf
+parent_uid: 37e14053-895c-e08f-bcff-33f0794003ad
 resourcetype: Document
 title: 'Lecture 9: Sorting II: Heaps'
 uid: 4ce619b4-efda-1ca1-2d0c-65b504c73bc9
